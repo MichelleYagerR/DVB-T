@@ -1,0 +1,11 @@
+First you need to install the appropriate software in order to work with the dongle.
+
+**Windows Software**
+==============================
+*Zading
+1) Download Zadig from this link: http://zadig.akeo.ie/
+2) Once you have downloaded and extracted the software from the zip, run the .exe file. 
+3) A window similar to this one will appear:
+![](http://fayimora.com/content/images/2015/01/hello_world.gif)
+
+Note that you will need to run Zadig for every USB port you use an RTLSDR dongle
